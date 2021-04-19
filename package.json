@@ -21,7 +21,7 @@
     "graphql": "^15.5.0",
     "graphql-tools": "^7.0.4",
     "jsonwebtoken": "^8.5.1",
-    "knex": "^0.95.2",
+    "knex": "^0.95.4",
     "objection": "^2.2.14",
     "pg": "^8.5.1",
     "type-graphql": "^1.1.1"
