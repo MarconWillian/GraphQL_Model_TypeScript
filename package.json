@@ -23,7 +23,7 @@
     "jsonwebtoken": "^8.5.1",
     "knex": "^0.95.2",
     "objection": "^2.2.14",
-    "pg": "^8.5.1",
+    "pg": "^8.6.0",
     "type-graphql": "^1.1.1"
   },
   "devDependencies": {
